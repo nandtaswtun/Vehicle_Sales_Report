@@ -1,5 +1,3 @@
-![Insights](https://drive.google.com/file/d/1-NcFx5vsGs_FKyJFHC7ZnD3Q5t5tMqcq/view?usp=sharing)
-
 ##🏎️ Vehicle Sales Performance & Market Trend Analysis
 
 #📌 Project Overview
